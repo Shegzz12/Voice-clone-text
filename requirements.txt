@@ -3,3 +3,4 @@ uvicorn
 gTTS
 pydantic
 requests
+python-multipart
